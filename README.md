@@ -1,5 +1,5 @@
 # GitHub Codespaces ♥️ Next.js
-初めてのプログラミング
+初めてのプログラミング♥️
 
 ## GitHubのアカウントを作成
 以下の記事を参考にGitHubのアカウントを作成  
